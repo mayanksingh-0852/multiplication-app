@@ -39,8 +39,6 @@ This project helped me understand:
 ## 👨‍💻 Author
 **Mayank Singh**  
 Frontend Developer (Fresher)  
-Learning HTML, CSS, JavaScript & React.js  
-
+Learning HTML, CSS, JavaScript & React.js 
 ---
-
 ⭐ If you like this project, don’t forget to star the repository!
